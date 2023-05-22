@@ -8,3 +8,5 @@ To install this seqLogo package:
 
 Make sure to remove any if-installed "seqLogo" using remove.packages("seqLogo")
 install.packages(<path_to_downloaded-seqLogo>, repos=NULL, type="source")
+
+Sequences for 3'splice site proximal and cassette exons from MISO v2.0 are given in MisoSpecific_U2af1_S34F. This is in conjunction with the Merging_Annotations repository. 
