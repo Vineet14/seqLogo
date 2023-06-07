@@ -4,7 +4,7 @@ Indeed adapted from the main seqlogo repository at https://github.com/ivanek/seq
 
 This adaptation is specifically for the representation of the 3' splice site visualisation. PWM of 10bp upstream and 6bp downstream of the 3' splice site are required for the depiction of the seqlogo plot.
 
-![embed]https://github.com/Vineet14/seqLogo/blob/main/MisoSpecific_U2af1_S34F/A3SS.pdf[/embed]
+![SpliceSite 3prime]https://github.com/Vineet14/seqLogo/blob/main/MisoSpecific_U2af1_S34F/A3SS.pdf
 
 To install this seqLogo package:
 
